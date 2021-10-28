@@ -1,5 +1,7 @@
 # Tokyo-Olimpics-2021
 
+The goal of this project is to clean and prepare the data for a dashboard visualization.
+
 Dataset: Tokyo Olympics 2021  [[URL](https://www.kaggle.com/arvinthsss/2021-tokyo-olympics-dive-deep-in-sql/notebook)]
 
 Queries:
