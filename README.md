@@ -1,6 +1,6 @@
 # Tokyo-Olimpics-2021
 
-The goal of this project is to clean and prepare the data for a dashboard visualization.
+The goal of this project is to explore and prepare data for a dashboard visualization.
 
 Dataset: Tokyo Olympics 2021  [[URL](https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo)]
 
