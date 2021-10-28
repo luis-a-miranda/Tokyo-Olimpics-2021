@@ -2,7 +2,7 @@
 
 The goal of this project is to clean and prepare the data for a dashboard visualization.
 
-Dataset: Tokyo Olympics 2021  [[URL](https://www.kaggle.com/arvinthsss/2021-tokyo-olympics-dive-deep-in-sql/notebook)]
+Dataset: Tokyo Olympics 2021  [[URL](https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo)]
 
 Queries:
 1. Total participants per discipline:
