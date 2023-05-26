@@ -1,5 +1,7 @@
 # Tokyo-Olimpics-2021
 
+--work in progress--(missing dashboard)
+
 The goal of this project is to explore and prepare data for a dashboard visualization.
 
 Dataset: Tokyo Olympics 2021  [[URL](https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo)]
@@ -13,3 +15,4 @@ Queries:
 6. Total disciplines per Country
 7. Performance per country with total coaches and athletes info
 8. Ratio of Athlete vs Coach
+
